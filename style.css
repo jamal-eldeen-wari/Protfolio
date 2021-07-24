@@ -1,0 +1,52 @@
+#screenShot{
+    margin-left: 250px
+}
+body{
+    background-color: aliceblue;
+    
+}
+header{
+    background-color: cornflowerblue;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+}
+/* h3{
+    text-align: center;
+} */
+h1:hover{
+    color: blueviolet;
+
+}
+
+h2:hover{
+    color:coral;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: coral;
+}
+#myPhoto{
+    border-radius: 50%;
+}
+#intro{
+    font-weight: bolder;
+}
+
+footer{
+    background-color: cornflowerblue;
+}
+footer p{
+    text-align: center;
+}
